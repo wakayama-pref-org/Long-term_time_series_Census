@@ -1,4 +1,4 @@
-# Long-term_time_series_Census
+# long-term_time_series_census
 　【和歌山県　長期時系列　工業統計調査です。】
 ◆工業統計調査とは
 工業統計調査は、我が国の製造業の実態を明らかにすることを目的とし、経済産業省所管のもとに実施されています。 
